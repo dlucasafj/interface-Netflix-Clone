@@ -3,4 +3,4 @@
 
 ## Descrição
 
-	Projeto desenvolvido como atividade da plataforma de ensino Digital Inovation One.
+ <p> Projeto desenvolvido como atividade da plataforma de ensino Digital Inovation One. </p>
